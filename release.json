@@ -2,7 +2,7 @@
   "name": "tongpin-android",
   "version": "3.7.0",
   "versionCode": 370,
-  "url": "https://raw.githubusercontent.com/ctomall/tongpin-apk/main/tongpin-3.7.0.apk",
+  "url": "https://github.com/ctomall/tongpin-apk/raw/main/tongpin-3.7.0.apk",
   "sha256": "4bd1e57f428a43239b7f1bfbadfe6caf613d2b1da852248020348925633c9243",
   "size": 530712,
   "notes": [
